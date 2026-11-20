@@ -12,8 +12,8 @@
 | STT | Họ và tên | Mã sinh viên | Phân công nhiệm vụ |
 |:---:|:---|:---:|:---|
 | 1 | **Vũ Quốc Hiệp** | B23DCCN295 | - Tô màu ảnh bằng DDColor. <br>- So sánh kết quả DDColor trực tiếp với kết quả phục hồi và tô màu. |
-| 2 | **Lê Đức Duy** | B23DCCN239 | - Quy trình phục hồi ảnh cũ. <br>- Làm phẳng ảnh chụp. |
-| 3 | **Phạm Minh** | B23DCCN561 | - Chọn vùng để tô màu. <br>- Xóa vật thể.|
+| 2 | **Lê Đức Duy** | B23DCCN239 | - Chọn vùng để đổi màu. <br>- Xóa vật thể. |
+| 3 | **Phạm Minh** | B23DCCN561 | - Quy trình phục hồi ảnh cũ. <br>- Làm phẳng ảnh chụp. |
 ---
 
 ## 2. MÔ TẢ HỆ THỐNG
