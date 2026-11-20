@@ -1,0 +1,15 @@
+{
+  "result": "passed",
+  "actions": [
+    "upload",
+    "load",
+    "select",
+    "confirm",
+    "apply",
+    "download",
+    "undo",
+    "reset"
+  ],
+  "outside_changed": 0,
+  "dependencies": 38
+}

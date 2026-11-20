@@ -1,0 +1,83 @@
+{
+  "opencv": "4.7.0",
+  "cases": [
+    {
+      "case": "small-object",
+      "backend": "telea",
+      "shape": [
+        1920,
+        1920,
+        3
+      ],
+      "mask_pixels": 9850,
+      "outside_changed": 0,
+      "selection_seconds": 10.219,
+      "removal_seconds": 0.449
+    },
+    {
+      "case": "small-object",
+      "backend": "ns",
+      "shape": [
+        1920,
+        1920,
+        3
+      ],
+      "mask_pixels": 9850,
+      "outside_changed": 0,
+      "selection_seconds": 10.219,
+      "removal_seconds": 0.447
+    },
+    {
+      "case": "small-object",
+      "backend": "lama",
+      "shape": [
+        1920,
+        1920,
+        3
+      ],
+      "mask_pixels": 9850,
+      "outside_changed": 0,
+      "selection_seconds": 10.219,
+      "removal_seconds": 17.922
+    },
+    {
+      "case": "dog",
+      "backend": "telea",
+      "shape": [
+        1365,
+        2048,
+        3
+      ],
+      "mask_pixels": 254921,
+      "outside_changed": 0,
+      "selection_seconds": 2.843,
+      "removal_seconds": 0.689
+    },
+    {
+      "case": "dog",
+      "backend": "ns",
+      "shape": [
+        1365,
+        2048,
+        3
+      ],
+      "mask_pixels": 254921,
+      "outside_changed": 0,
+      "selection_seconds": 2.843,
+      "removal_seconds": 0.73
+    },
+    {
+      "case": "dog",
+      "backend": "lama",
+      "shape": [
+        1365,
+        2048,
+        3
+      ],
+      "mask_pixels": 254921,
+      "outside_changed": 0,
+      "selection_seconds": 2.843,
+      "removal_seconds": 8.332
+    }
+  ]
+}

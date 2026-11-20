@@ -1,0 +1,31 @@
+{
+  "timings": {
+    "Detection": 8.9393763,
+    "Repair": 8.0612003,
+    "Denoise": 0.4770697999999989,
+    "Contrast": 0.024457000000001727,
+    "Sharpen": 3.499999998268777e-06,
+    "Total": 17.5221261
+  },
+  "notes": [
+    "Microsoft Scratch Detection (CPU).",
+    "Mask: 2.53% ảnh.",
+    "LaMa CPU; chỉ thay pixel nằm trong mask.",
+    "Noise sigma=1.98; NLM h=1.58."
+  ],
+  "options": {
+    "detector": "auto",
+    "repair_backend": "auto",
+    "detect": true,
+    "repair": true,
+    "denoise": true,
+    "contrast": true,
+    "sharpen": false,
+    "detection_threshold": 0.4,
+    "mask_grow": 1,
+    "denoise_h": 0.0,
+    "contrast_amount": 0.2,
+    "sharpen_amount": 0.2,
+    "max_model_side": 512
+  }
+}

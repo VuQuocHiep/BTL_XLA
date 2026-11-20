@@ -1,0 +1,20 @@
+{
+  "source": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life/releases/download/v1.0/global_checkpoints.zip",
+  "member": "checkpoints/detection/FT_Epoch_latest.pt",
+  "crc32": 3414035782,
+  "sha256": "b2d7ab04e9b3885c6b1991bb7a0b823129dd6e3ac078a9fd059ebd2a7ba59a95",
+  "sources": {
+    "networks.py": {
+      "url": "https://raw.githubusercontent.com/microsoft/Bringing-Old-Photos-Back-to-Life/master/Global/detection_models/networks.py",
+      "sha256": "e4f30341337bc37495b869a0277f36d7dfb3c981c9ca2b00ed6aa1c31175adaf"
+    },
+    "antialiasing.py": {
+      "url": "https://raw.githubusercontent.com/microsoft/Bringing-Old-Photos-Back-to-Life/master/Global/detection_models/antialiasing.py",
+      "sha256": "c3352664dcd21aa7ee7ce80860efd12a2e4ee1b838764b645f72c7956009953b"
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/microsoft/Bringing-Old-Photos-Back-to-Life/master/LICENSE",
+      "sha256": "9906940f61b1f0b533fa7d99baf55178b2808fbe113ea51dfbfad8572ccd5f2b"
+    }
+  }
+}
